@@ -1,8 +1,6 @@
-@charset "UTF-8";
-
 body {
   font-family: "Romul", sans-serif;
-  background-color: #FFF;
+  background-color: yellow;
   font-size: 42px; }
   h1 {
   font-size: 60px;
